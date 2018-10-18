@@ -1,0 +1,16 @@
+>>
+Script is used     : create_e3_modules.bash
+Script Path        : /home/iocuser/icshwi/e3/tools/template_gen
+User               : iocuser
+Log Time           : 2018Oct18-2017-04CEST
+e3 repo Hash       : 
+>> 
+EPICS_MODULE_NAME  :                                                          test-tf
+E3_MODULE_SRC_PATH :                                                          test-tf
+EPICS_MODULE_URL   :                                  https://github.com/thomasfayESS
+E3_TARGET_URL      :                                        https://github.com/icshwi
+>> 
+e3 module name     :                                                       e3-test-tf
+e3 module url full :                          https://github.com/thomasfayESS/test-tf
+e3 target url full :                             https://github.com/icshwi/e3-test-tf
+>> 

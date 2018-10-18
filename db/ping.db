@@ -1,0 +1,4 @@
+record(stringin, "pingpong") {
+	field(DTYP, "asynOctetCmdResponse")
+	field(INP, "@asyn(ECHO) PING")
+}
